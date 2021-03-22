@@ -50,3 +50,27 @@ marquee {
     border-style: solid;
     border-color: lightgoldenrodyellow;
 }
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.imgmodal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
