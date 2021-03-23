@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background:linear-gradient(pink 0% , blue 100%)
+    background: linear-gradient(pink 0%, cyan 100%)
 }
 
 .line {
@@ -50,6 +50,7 @@ marquee {
     border-style: solid;
     border-color: lightgoldenrodyellow;
 }
+
 .book {
     cursor: pointer;
 }
@@ -74,3 +75,6 @@ marquee {
     text-align: center
 }
 
+h4 {
+    color: white;
+}
